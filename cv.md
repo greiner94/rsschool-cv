@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am always looking for new knowledge. This course is a great opportunity to learn something new! I want to become a front-end developer.
+I'm learning frontend. And I'm constantly trying to learn something new in this direction. I hope that this course will give me enough impetus to new knowledge, and perhaps new acquaintances that will help me become a part of this interesting and rapidly developing industry like Web development.
 
 ## Skills
 
